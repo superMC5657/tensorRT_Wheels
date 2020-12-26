@@ -23,3 +23,7 @@
 18.constant  ("The most important layer!!!")
 19.PReLU
 20.groupNorm
+<<<<<<< HEAD
+21.padding
+=======
+>>>>>>> 02e7460caefd01e997b4d5d7ca45657173cf3025
